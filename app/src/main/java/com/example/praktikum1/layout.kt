@@ -35,3 +35,8 @@ fun TataletakColumn(modifier: Modifier) {
 
     }
 }
+
+@Composable
+fun TataletakBox(modifier: Modifier){
+
+}
